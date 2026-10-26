@@ -132,3 +132,21 @@ Entregar em produção
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/carlosguida/)
+
+---
+
+## GitHub em números
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=carlos-guida&amp;show_icons=true&amp;hide_rank=true&amp;theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=carlos-guida&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark"
+    alt="Linguagens dos repositórios públicos"
+  />
+</p>
+
