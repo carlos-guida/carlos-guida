@@ -5,8 +5,8 @@
 ### Senior Full Stack Developer
 **Backend & Integrations • PHP • Node.js • TypeScript • React/Next.js**
 
-Desenvolvimento de aplicações web, APIs, integrações e soluções sob medida.  
 Do desenvolvimento à entrega em produção.
+Desenvolvimento de aplicações web, APIs, integrações e soluções sob medida.  
 
 </div>
 
